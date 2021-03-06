@@ -17,5 +17,5 @@
   ## Questions & Topics
   | Topic/Question | Link | Editorial | Solution |
   | :------------: | :--: | :-------: | :------: |
-  | Intro to DP | [Article](https://cofounderstown.com/dynamic-programming-72388) [Video](https://www.youtube.com/watch?v=nqowUJzG-iM) |  |  |
+  | :heavy_check_mark: Intro to DP | [Article](https://cofounderstown.com/dynamic-programming-72388) [Video](https://www.youtube.com/watch?v=nqowUJzG-iM) |  |  |
 </details>
