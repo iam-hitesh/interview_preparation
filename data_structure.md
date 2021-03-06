@@ -10,7 +10,7 @@
 - [ ] [Tree](#tree)
 - [ ] [Heap](#heap)
 - [ ] [Priority Queue](#priority-queue)
-- [ ] [Grpah](#graph)
+- [ ] [Graph](#graph)
 - [ ] [Trie](#trie)
 - [ ] [Segment Tree](#segment-tree)
 
@@ -18,11 +18,10 @@
 <details>
   <summary>Learn Here!</summary>
   
-  ## Youtube Links
-  1. https://www.youtube.com/watch?v=qikxEIxsXco
-  2. list
-     * With some
-     * Sub bullets
+  ## Questions & Topics
+  | Topic/Question | Link | Editorial | Solution |
+  | :------------: | :--: | :-------: | :------: |
+  | Data Structure | [Click Here]() |  |  |
 </details>
 
 ## Recursion
@@ -31,7 +30,7 @@
   
   ## Questions & Topics
   | Topic/Question | Link | Editorial | Solution |
-  | :---: | :---: | :---: |
+  | :------------: | :--: | :-------: | :------: |
   | Data Structure | [Click Here]() |  |  |
 </details>
 
@@ -41,7 +40,7 @@
   
   ## Questions & Topics
   | Topic/Question | Link | Editorial | Solution |
-  | :---: | :---: | :---: |
+  | :------------: | :--: | :-------: | :------: |
   | Data Structure | [Click Here]() |  |  |
 </details>
 
@@ -51,7 +50,7 @@
   
   ## Questions & Topics
   | Topic/Question | Link | Editorial | Solution |
-  | :---: | :---: | :---: |
+  | :------------: | :--: | :-------: | :------: |
   | Data Structure | [Click Here]() |  |  |
 </details>
 
@@ -61,7 +60,7 @@
   
   ## Questions & Topics
   | Topic/Question | Link | Editorial | Solution |
-  | :---: | :---: | :---: |
+  | :------------: | :--: | :-------: | :------: |
   | Data Structure | [Click Here]() |  |  |
 </details>
 
@@ -72,7 +71,7 @@
   
   ## Questions & Topics
   | Topic/Question | Link | Editorial | Solution |
-  | :---: | :---: | :---: |
+  | :------------: | :--: | :-------: | :------: |
   | Data Structure | [Click Here]() |  |  |
 </details>
 
@@ -83,46 +82,66 @@
   
   ## Questions & Topics
   | Topic/Question | Link | Editorial | Solution |
-  | :---: | :---: | :---: |
+  | :------------: | :--: | :-------: | :------: |
   | Data Structure | [Click Here]() |  |  |
 </details>
 
-## Stack & Queue
+## Tree
 <details>
   <summary>Learn Here!</summary>
   
   ## Questions & Topics
   | Topic/Question | Link | Editorial | Solution |
-  | :---: | :---: | :---: |
+  | :------------: | :--: | :-------: | :------: |
   | Data Structure | [Click Here]() |  |  |
 </details>
 
-## Stack & Queue
+## Heap
 <details>
   <summary>Learn Here!</summary>
   
   ## Questions & Topics
   | Topic/Question | Link | Editorial | Solution |
-  | :---: | :---: | :---: |
+  | :------------: | :--: | :-------: | :------: |
   | Data Structure | [Click Here]() |  |  |
 </details>
 
-## Stack & Queue
+## Priority Queue
 <details>
   <summary>Learn Here!</summary>
   
   ## Questions & Topics
   | Topic/Question | Link | Editorial | Solution |
-  | :---: | :---: | :---: |
+  | :------------: | :--: | :-------: | :------: |
   | Data Structure | [Click Here]() |  |  |
 </details>
 
-## Stack & Queue
+## Graph
 <details>
   <summary>Learn Here!</summary>
   
   ## Questions & Topics
   | Topic/Question | Link | Editorial | Solution |
-  | :---: | :---: | :---: |
+  | :------------: | :--: | :-------: | :------: |
+  | Data Structure | [Click Here]() |  |  |
+</details>
+
+## Trie
+<details>
+  <summary>Learn Here!</summary>
+  
+  ## Questions & Topics
+  | Topic/Question | Link | Editorial | Solution |
+  | :------------: | :--: | :-------: | :------: |
+  | Data Structure | [Click Here]() |  |  |
+</details>
+
+## Segment Tree
+<details>
+  <summary>Learn Here!</summary>
+  
+  ## Questions & Topics
+  | Topic/Question | Link | Editorial | Solution |
+  | :------------: | :--: | :-------: | :------: |
   | Data Structure | [Click Here]() |  |  |
 </details>
