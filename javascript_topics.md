@@ -2,21 +2,21 @@
 
 - [ ] [Prototype & Prototypal Inheritance](https://www.youtube.com/watch?v=wstwjQ1yqWQ)
 - [ ] Scoping
-- [ ] [Closures](#closures)
+- [ ] [Closures](#closure)
 - [ ] The Event Loop
 - [ ] Execution Context
 - [ ] Call Stack
 - [ ] Event Bubbling, Trickling
 - [ ] Callbacks and Promises
 - [ ] Variable and function hoisting
-- [ ] Polyfill
+- [ ] [Polyfill](#polyfill)
 - [ ] Currying
 - [ ] Deboucing & Throttling
 - [ ] ES6 Features
 - [ ] bind() vs apply() vs call()
 - [ ] CORS
 - [ ] Variables - let, var, const (Hoisting)
-- [ ] Deep Copy vs Shallow Copy
+- [ ] Deep Copy vs Shallow Copy, lodash
 - [ ] React Lifecycle Method
 - [ ] DOM Real & Virtual
 - [ ] Async vs Defer
