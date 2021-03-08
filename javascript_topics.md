@@ -35,6 +35,7 @@
 
 ## Coding Questions
 - [ ] Search Bar Implementation (use concept of Debouncing)
+- [ ] [Identical DOM Node](https://codepen.io/hiteish/pen/YzpJGXK)
 
 
 ## Closure
