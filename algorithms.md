@@ -1,3 +1,4 @@
+
 # Algorithms
 
 - [ ] [Searching]()
@@ -17,5 +18,6 @@
   ## Questions & Topics
   | Topic/Question | Link | Editorial | Solution |
   | :------------: | :--: | :-------: | :------: |
-  | :heavy_check_mark: Intro to DP | [Article](https://cofounderstown.com/dynamic-programming-72388) [Video](https://www.youtube.com/watch?v=nqowUJzG-iM) |  |  |
+  | ✅ Intro to DP | [Article](https://cofounderstown.com/dynamic-programming-72388) [Video](https://www.youtube.com/watch?v=nqowUJzG-iM) |  |  |
+  | ✅ Triple Step | [Question](https://www.geeksforgeeks.org/count-ways-reach-nth-stair-using-step-1-2-3/) |  | [Here](./solutions/algorithms/dp/triple-step.cpp) |
 </details>
